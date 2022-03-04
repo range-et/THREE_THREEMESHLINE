@@ -1,0 +1,37 @@
+{
+  "name": "three_threemeshline",
+  "version": "1.0.0",
+  "description": "A repo documenting the error that I mentioned here: https://stackoverflow.com/questions/71324907/multiple-versions-of-three-js-being-imported",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack serve"
+  },
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.64.2",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "three": "^0.138.3",
+    "three.meshline": "^1.4.0",
+    "webpack-dev-server": "^4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/range-et/THREE_THREEMESHLINE.git"
+  },
+  "author": "Indrajeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/range-et/THREE_THREEMESHLINE/issues"
+  },
+  "homepage": "https://github.com/range-et/THREE_THREEMESHLINE#readme"
+}
